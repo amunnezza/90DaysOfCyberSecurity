@@ -27,6 +27,7 @@
 - Codecademy's Git for Beginners course: https://codecademy.com/learn/learn-git
 - Git Immersion tutorial: http://gitimmersion.com
 - Try Git: https://try.github.io
+- prova di funzionamento
 
 ## ELK
 - ELK Stack Tutorial on Logz.io: https://logz.io/learn/complete-elk-stack-tutorial/
