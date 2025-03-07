@@ -13,13 +13,66 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "ee51d0ee77bc68e9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "aa6db8ad2ead2875",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
+          },
+          {
+            "id": "f03bee7707edc66b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
+            "id": "d8ceb1bbeaeadb4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "learn.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "learn"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +92,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +109,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +152,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
             }
           },
           {
@@ -102,10 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learn.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -116,7 +179,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +190,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn.md"
-              }
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
             }
           }
         ]
@@ -138,14 +205,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "c0428f496bba17be",
-  "lastOpenFiles": []
+  "active": "ee51d0ee77bc68e9",
+  "lastOpenFiles": [
+    "License.md",
+    "learn.md",
+    "README.md"
+  ]
 }
